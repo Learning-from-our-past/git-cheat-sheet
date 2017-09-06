@@ -1,0 +1,1 @@
+This is just an example repository. Check the wiki-pages for guides.
